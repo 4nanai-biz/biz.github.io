@@ -63,7 +63,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   ignoreDeadLinks: true,
   // 生成站点地图
   // sitemap: {
-  //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
+  //   hostname: 'www.jbjt.club',
   // },
   title: "Bz's 部落格",
   description: "Bz's 部落格",
