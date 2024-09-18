@@ -65,8 +65,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   // sitemap: {
   //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
   // },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "Bz's 部落格",
+  description: "Bz's 部落格",
   themeConfig: {
     // navBar
     menuList: [
